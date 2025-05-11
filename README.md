@@ -1,2 +1,5 @@
-# -Predicting-Demographic-Attributes-Using-Machine-Learning
-This project focuses on predicting demographic attributes such as age, gender, and geographic ancestry based on facial image embeddings. The dataset contains structured feature representations extracted from images, allowing the models to classify individuals into predefined demographic categories.  Dataset: https://github.com/joojs/fairface
+# Predicting Demographic Attributes Using Machine Learning
+
+This project focuses on predicting demographic attributes such as age, gender, and geographic ancestry based on facial image embeddings. The dataset contains structured feature representations extracted from images, allowing the models to classify individuals into predefined demographic categories.  
+
+Dataset: https://github.com/joojs/fairface
